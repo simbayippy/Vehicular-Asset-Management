@@ -1,7 +1,7 @@
 # coding-
 all codes written for mrf
 
-*PLEASE IGNORE MRFDRIVERS file, it does not contain anything i just dk how delete lol.*
+*PLEASE IGNORE the file (mrfdrivers), it does not contain anything i just dk how delete lol.*
 
 
 _MRF DRIVER MAINTANENCE BOT_ ->
