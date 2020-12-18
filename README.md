@@ -11,7 +11,7 @@ _RECALL_ ->
 code is in file (toh), actual code is in mrf.py
 
 _SEVERONLY_ ->
-only way i could find to send the daily 6.30 am messages using scheduler from heroku.
+only way i could find to send the daily 7.30 am messages using scheduler from heroku.
 
 
 
